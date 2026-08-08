@@ -11,3 +11,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Kuntal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuntalcoding)
 
 </div>
+
+---
+
+## `> whoami`
+
+```bash
+kuntalcoding@github:~$ cat profile.txt
+
+  DESIGNATION:     Cybersecurity learner | Student
+  CURRENTLY:       Learning Penetration Testing
+  LOCATION:        South Asia
+
+  STATUS:          [ ACTIVE ]
+```
+
+---
+
